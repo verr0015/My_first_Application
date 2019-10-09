@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My first Application</string>
     <string name="greeting">hello world</string>
+    <string name="ipaddress">IP Address:</string>
 </resources>
